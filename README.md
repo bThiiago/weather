@@ -75,8 +75,6 @@
     - Relatório detalhado de participantes de cada uma das edições, tendo todas as atividades que o participante se matriculou naquela edição e as suas presenças.
     - Relatório resumido de participantes de cada uma das edições, tendo a carga horária total que o participante acumulou.
 
-<div style="page-break-after: always;"></div>
-
 #### Edições anteriores
 
 - Pode consultar e alterar as suas edições.
@@ -180,8 +178,6 @@
 - Apenas pode desativar o usuário se:
     - O usuário não é organizador nem responsável por alguma edição que está ocorrendo no momento, ou uma edição futura.
 
-<div style="page-break-after: always;"></div>
-
 ## Escopo do sistema
 
 O Sistema Gerenciador de Eventos é uma plataforma desenvolvida pelos alunos do curso de Ciências da Computação para administrar e facilitar a gestão dos eventos dentro do câmpus da faculdade. Com o objetivo de proporcionar uma experiência eficiente e conveniente, o sistema oferece funcionalidades de autenticação e contas de usuário, visualização de eventos e inscrições, gestão de certificados, controle de atividades para responsáveis, acesso privilegiado para organizadores e permissões abrangentes para o administrador. Essas funcionalidades visam garantir a segurança, eficiência e organização na gestão dos eventos realizados na faculdade.
@@ -222,7 +218,5 @@ O Sistema Gerenciador de Eventos é uma plataforma desenvolvida pelos alunos do 
 - Controle total da programação das edições, incluindo cadastro e alteração de atividades.
 - Gerenciamento de presenças e geração de relatórios.
 - Alteração e desativação de usuários com base em critérios específicos.
-
-<div style="page-break-after: always;"></div>
 
 ## Documentação
